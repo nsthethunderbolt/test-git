@@ -3,4 +3,7 @@
  */
 public class Third {
     // adding third file to be committed in separate changelist.
+    // modifying in the dev-ns branch
+    // changing in master
+
 }
